@@ -11,7 +11,7 @@ Datasets are publically available and will be linked to relevant sources.
 
 | Dataset        |Details | Source      | EDA  |
 | -------------: |--------|-------------| -----|
-| Kickstarter    |        |              |     |
+| Kickstarter    |        |[Kaggle Projects](https://www.kaggle.com/kemical/kickstarter-projects)           | [ Kickstarter EDA Jupyter Notebook](https://github.com/olasaja/supermassive_code_hole/blob/main/Kickstarter/Kickstarter_EDA.ipynb) |
 
 
 
