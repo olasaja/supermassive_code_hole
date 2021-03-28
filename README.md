@@ -9,9 +9,9 @@ Those two are very powerful concepts that have me intrigued. I will use Python f
 Datasets are publically available and will be linked to relevant sources. 
 
 
-| Dataset        | Source      | EDA  |
-| -------------: |-------------| -----|
-| Kickstarter    |  | |
+| Dataset        |Details | Source      | EDA  |
+| -------------: |--------|-------------| -----|
+| Kickstarter    |        |              |     |
 
 
 
